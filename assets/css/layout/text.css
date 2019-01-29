@@ -1,0 +1,38 @@
+/*text-align*/
+.l-textJustify{
+	text-align: justify;
+}
+.l-textLeft{
+	text-align: left;
+}
+.l-textRight{
+	text-align: right;
+}
+.l-textCenter{
+	text-align: center;
+}
+
+/*text-decoration*/
+.l-textOverline{
+	text-decoration: overline;
+}
+.l-textLineThrough{
+	text-decoration: line-through;
+}
+.l-textUnderline{
+	text-decoration: underline;
+}
+.l-textUnderlineOverline{
+	text-decoration: underline overline;
+}
+
+/*text-transform*/
+.l-textCapitalize{
+	text-transform: capitalize;
+}
+.l-textLowercase{
+	text-transform: lowercase;
+}
+.l-textUppercase{
+	text-transform: uppercase;
+}
